@@ -1,9 +1,9 @@
 ## KNYO Site
-A culmination of treasured orchestra moments at KNYO.
+A curated collection of highlights from the Kenya National Youth Orchestra, showcasing memorable performances over the years.
 
 ## Authors
-1. [Christine Wasike](https://github.com/ChristineWasike)
-2. [Taiwo John](https://github.com/Taiwo-John)
-3. [Julius Okello](https://github.com/OkelloJulius)
+1. [christine wasike](https://github.com/ChristineWasike)
+2. [taiwo john](https://github.com/Taiwo-John)
+3. [julius okello](https://github.com/OkelloJulius)
 
-[Website Designs](https://www.figma.com/file/2Xo1g8mQZqmRkszX3lWjnt/KNYO-Website)
+[figma](https://www.figma.com/file/2Xo1g8mQZqmRkszX3lWjnt/KNYO-Website)
